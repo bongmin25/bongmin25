@@ -1,6 +1,6 @@
 # **¡Hola! Soy Thomas Dantas** 👋
 
-> ## .[!¿Quién soy? ⁉️].
+ ## > .[!¿Quién soy? ⁉️].
 Soy **desarrollador full stack**, apasionado por el **diseño de interfaces** y la creación de contenido visual. Desde los 21 años, me sumergí en el mundo de la programación, y mi primer contacto fue con **JavaScript**. Desde entonces, me ha fascinado la capacidad del código para transformar ideas en realidad.
 
 ## ¿Qué hago?
